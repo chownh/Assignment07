@@ -6,6 +6,7 @@ GitHub Link: https://github.com/chownh/Assignment07.git
 The purpose of this assignment is to learn about exception handling and Python’s Pickling module, and how to use them.
 In this assignment, the interface asks the user to input an ID and a name. Then it takes the user inputs and saves it into a text document.
  
+```
 Picture and Code text: 
 # ------------------------------------------------- #
 # Title: Lab7-1
@@ -111,6 +112,8 @@ while True:
     exit()
     if quit_choice:
         break
+
+```
 
 • What are the benefits of putting built-in Python command into functions?
 Some of the advantages are reducing duplication of code, decomposing complex problems into simpler pieces, improving clarity of the code, reuse of code, information hiding.
