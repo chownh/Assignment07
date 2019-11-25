@@ -117,15 +117,21 @@ while True:
 
 • What are the benefits of putting built-in Python command into functions?
 Some of the advantages are reducing duplication of code, decomposing complex problems into simpler pieces, improving clarity of the code, reuse of code, information hiding.
+
 • What are the benefits of using structured error handling?
 Enables you to have complete control over the handling of exceptions, provide support for debuggers, and is usable across all programming languages and machines.
+
 • What are the differences between a text file and a binary file?
 Text file contains textual information in form of alphabets, digits and special characters or symbols, while has binary file contains bytes or compiled version of a text file.
+
 • How is the Exception class used?
 Passed as an argument to the class’s constructor.
+
 • How do you "derive" a new class from the Exception class?
 By creating a new class. 
+
 • When might you create a class derived from the Exception class?
 When a modern python exception is required.
+
 • What is the Markdown language?
 Lightweight markup language with plain text formatting syntax.
